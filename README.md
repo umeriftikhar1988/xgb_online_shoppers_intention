@@ -6,7 +6,9 @@ This project uses XGBoost to predict whether a visitor will make a purchase base
 ## 📂 Files
 - xgb_online_retention.py – Main script
 - online_shoppers_intention.csv – Dataset used for training/testing
-- confusion_matrix.png – Model output image
+- confusion matrix (Figure_1.png) 
+- Feature Importance (Figure_2.png)
+- ROC Curve (Figure_3.png)
 - requirements.txt – Dependencies list
 
 ## 🚀 Run Instructions
