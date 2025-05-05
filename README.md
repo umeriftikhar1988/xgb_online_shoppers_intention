@@ -1,9 +1,16 @@
 @"
-# 💼 XGBoost Online Purchase Prediction
+# XGBoost Online Purchase Prediction
 
 This project uses XGBoost to predict whether a visitor will make a purchase based on online browsing behavior.
 
-## 📂 Files
+## Model Evaluation
+
+- Accuracy: 89%
+- Classifier: XGBoost
+- Dataset: Online Shoppers Purchasing Intention
+- Target: Revenue (purchase intent)
+
+## Files
 - xgb_online_retention.py – Main script
 - online_shoppers_intention.csv – Dataset used for training/testing
 - confusion matrix (Figure_1.png) 
@@ -11,7 +18,7 @@ This project uses XGBoost to predict whether a visitor will make a purchase base
 - ROC Curve (Figure_3.png)
 - requirements.txt – Dependencies list
 
-## 🚀 Run Instructions
+## Run Instructions
 
 ```bash
 pip install -r requirements.txt
